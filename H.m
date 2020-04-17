@@ -1,4 +1,4 @@
-function [H_prime] = H(h,v) 
+function [H_prime] = H(h,v)  
 theta=1.23138148; 
 
 alpha_h=0.07*exp(v/20); 
